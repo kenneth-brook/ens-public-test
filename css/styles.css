@@ -1,0 +1,22 @@
+/* style.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+  }
+  
+  .curved-div {
+    position: relative;
+    width: 100%;
+    background-color: #3498db; /* Set your desired background color */
+    color: #fff; /* Set your desired text color */
+    padding: 40px; /* Set your desired padding */
+    overflow: hidden;
+    z-index: 1;
+  }
+
+  .curved-div h1 {
+    text-align: center;
+  }
+  
